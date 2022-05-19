@@ -67,7 +67,8 @@ print(device)
 ```
 
 ### Sending MQTT data
-In order to send a device MQTT data to the creted session, you'll need a two-step proccess:
+In order to send a device MQTT data to the created session, you'll need a
+two-step proccess:
 1. Set the value for device's attributes;
 2. Publish.
 
